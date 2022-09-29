@@ -3,9 +3,9 @@ module "sandbox" {
 
   control_tower_parameters = {
     AccountEmail              = "aishwarya.aws1@outlook.com"
-    AccountName               = "sandbox-aft"
+    AccountName               = "sandbox-afts"
     ManagedOrganizationalUnit = "learn AFT"
-    SSOUserEmail              = "hari.aws96@outlook.com"
+    SSOUserEmail              = "hari.aws97@outlook.com"
     SSOUserFirstName          = "Sandbox"
     SSOUserLastName           = "AFT"
   }
